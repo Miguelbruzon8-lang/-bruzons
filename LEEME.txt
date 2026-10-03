@@ -1,0 +1,25 @@
+CENTRAL TAXI - VERSION 1.1
+
+Actualizaciones:
+- Importes expresados en pesos cubanos (CUP).
+- Mensajes para clientes y conductores reorganizados, más claros y legibles.
+- El mensaje para el conductor no revela el código de verificación del cliente.
+
+Funciones:
+- Registro de viajes y generación de código de verificación de 4 cifras.
+- Registro y asignación de conductores.
+- Validación del código para marcar el viaje EN CURSO.
+- Cierre administrativo del viaje.
+- Cálculo de comisión configurable y registro de cobros en efectivo.
+- Mensajes para cliente y conductor.
+- Exportación e importación de respaldos y exportación CSV.
+
+IMPORTANTE:
+Esta versión guarda los datos localmente en el navegador del dispositivo.
+No sincroniza automáticamente con los teléfonos de los conductores.
+Haz respaldos periódicos. El código es una verificación operativa básica,
+no una prueba independiente de que el trayecto haya terminado.
+
+En iPhone, los archivos HTML locales pueden tener limitaciones. Para usarla
+como app desde Safari, será necesario publicarla como web app e incluir
+configuración de instalación y caché offline.
